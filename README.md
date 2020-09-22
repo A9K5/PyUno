@@ -10,7 +10,7 @@
 <img src="https://img.shields.io/badge/Made%20by-A9K5-orange.svg">
 
 
-![](https://github.com/A9K5/PyUno/Pyuno.png)
+![](https://github.com/A9K5/PyUno/blob/master/Pyuno.png)
 </h2>
 
 
